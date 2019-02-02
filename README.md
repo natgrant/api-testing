@@ -3,9 +3,13 @@
 Homemade goodness :cake:
 
 ## Instructions
+```
+npm install
 
-`npm install`
-`npm start`
+npm start
+```
+`Git clone` &
+Set new remote : `git remote set-url origin https://github.com/<your account>/<your repo>
 
 ## Babel
 
