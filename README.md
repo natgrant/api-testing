@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 `Git clone` &
-Set new remote : `git remote set-url origin https://github.com/<your account>/<your repo>
+Set new remote : `git remote set-url origin https://github.com/<your account>/<your repo>`
 
 ## Babel
 
